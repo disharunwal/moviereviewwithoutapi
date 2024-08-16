@@ -1,0 +1,22 @@
+/* src/styles/App.module.css */
+.container {
+    margin: 20px;
+    background-color: #f4f4f9;
+    min-height: 100vh;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background: url('../assets/movie-background.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 40px 0;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header img {
+    width: 150px;
+  }
+  
